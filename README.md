@@ -1,8 +1,8 @@
 # VBA-challenge
-Multiyear Stock Analysis VBA
+Multiyear Stock Analysis
 Calculates the Yearly and Percentage Change of each of the Stocks and Finds the Total Volume for each stock
 
-This project can help highlight which of the stocks are growing and which of them are declining. .
+This project can help highlight which of the stocks are growing and which of them are declining.
 
 It can also find the 
 -Stock with the Highest increase for the year
